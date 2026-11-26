@@ -1,0 +1,7 @@
+﻿gstack
+gstack-browse
+gstack-design-review
+gstack-qa
+gstack-qa-only
+gstack-review
+gstack-upgrade

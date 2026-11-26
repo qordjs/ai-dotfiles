@@ -1,0 +1,42 @@
+﻿Global Skills
+
+Mattpocock Skills
+  codebase-design               ~\.agents\skills\codebase-design              
+    Agents: Antigravity  Source: mattpocock/skills
+  diagnosing-bugs               ~\.agents\skills\diagnosing-bugs              
+    Agents: Antigravity  Source: mattpocock/skills
+  domain-modeling               ~\.agents\skills\domain-modeling              
+    Agents: Antigravity  Source: mattpocock/skills
+  grill-me                      ~\.agents\skills\grill-me                     
+    Agents: Antigravity  Source: mattpocock/skills
+  grill-with-docs               ~\.agents\skills\grill-with-docs              
+    Agents: Antigravity  Source: mattpocock/skills
+  grilling                      ~\.agents\skills\grilling                     
+    Agents: Antigravity  Source: mattpocock/skills
+  handoff                       ~\.agents\skills\handoff                      
+    Agents: Antigravity  Source: mattpocock/skills
+  improve-codebase-architecture ~\.agents\skills\improve-codebase-architecture
+    Agents: Antigravity  Source: mattpocock/skills
+  setup-matt-pocock-skills      ~\.agents\skills\setup-matt-pocock-skills     
+    Agents: Antigravity  Source: mattpocock/skills
+  tdd                           ~\.agents\skills\tdd                          
+    Agents: Antigravity  Source: mattpocock/skills
+  teach                         ~\.agents\skills\teach                        
+    Agents: Antigravity  Source: mattpocock/skills
+  to-spec                       ~\.agents\skills\to-spec                      
+    Agents: Antigravity  Source: mattpocock/skills
+  writing-for-agents            ~\.agents\skills\writing-for-agents           
+    Agents: Antigravity  Source: mattpocock/skills
+
+General
+  archify           ~\.agents\skills\archify          
+    Agents: not linked  Source: tt-a1i/archify
+  find-skills       ~\.agents\skills\find-skills      
+    Agents: not linked  Source: vercel-labs/skills
+  orca-cli          ~\.agents\skills\orca-cli         
+    Agents: Antigravity  Source: untracked
+  orca-computer-use ~\.agents\skills\orca-computer-use
+    Agents: not linked  Source: untracked
+  orchestration     ~\.agents\skills\orchestration    
+    Agents: not linked  Source: untracked
+

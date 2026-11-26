@@ -1,0 +1,4 @@
+﻿RTK: rtk 1.2.1
+Codex: codex-cli 0.172.0
+Node: v22.23.2
+Bun: 1.4.5

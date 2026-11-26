@@ -1,0 +1,14 @@
+﻿.env
+.env.*
+**/auth.json
+**/credentials.json
+**/config.toml
+**/mcp_config.json
+**/hooks.json
+**/sessions/
+**/node_modules/
+**/*.log
+**/*.bak
+**/*.db
+**/*.sqlite*
+.DS_Store
